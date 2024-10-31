@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-02-09 11:39+0300\n"
+"PO-Revision-Date: 2017-02-09 13:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: providers/class-log-file-sender.php:36
+msgid "Save into one file "
+msgstr ""
+
+#: providers/class-log-file-sender.php:42
+msgid "Always"
+msgstr ""
+
+#: providers/class-log-file-sender.php:47
+msgid "Every Day"
+msgstr ""
+
+#: providers/class-log-file-sender.php:52
+msgid "Every Week"
+msgstr ""
+
+#: providers/class-log-file-sender.php:57
+msgid "Every Month"
+msgstr ""
+
+#: providers/class-mail-std-sender.php:22
+msgid "Local smtp setting will be used"
+msgstr ""
+
+#: providers/class-multi-mailer.php:52 providers/class-multi-mailer.php:53
+#: providers/class-multi-mailer.php:81
+msgid "Multi Mailer"
+msgstr ""
+
+#: providers/class-multi-mailer.php:82
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: providers/class-multi-mailer.php:108
+msgid "Invalid email format"
+msgstr ""
+
+#: providers/class-multi-mailer.php:120
+msgid "Invalid email in TO field"
+msgstr ""
+
+#: providers/class-multi-mailer.php:124
+msgid "Empty TO field"
+msgstr ""
+
+#: providers/class-multi-mailer.php:134
+msgid "Invalid hostname"
+msgstr ""
+
+#: providers/class-multi-mailer.php:137
+msgid "Invalid port number"
+msgstr ""
+
+#: providers/class-multi-mailer.php:142
+msgid "Invalid SMTP username"
+msgstr ""
+
+#: providers/class-multi-mailer.php:146
+msgid "Please fill in username field"
+msgstr ""
+
+#: providers/class-multi-mailer.php:150
+msgid "Please fill in password field"
+msgstr ""
+
+#: providers/class-multi-mailer.php:197
+msgid "Please select period value"
+msgstr ""
+
+#: providers/class-multi-mailer.php:234
+msgid "Email Setting"
+msgstr ""
+
+#: providers/class-multi-mailer.php:235
+msgid "SMTP Setting"
+msgstr ""
+
+#: providers/class-multi-mailer.php:236
+msgid "Test Message"
+msgstr ""
+
+#: providers/class-multi-mailer.php:255
+msgid "Invalid provider name."
+msgstr ""
+
+#: providers/class-multi-mailer.php:261
+msgid "Save."
+msgstr ""
+
+#: providers/class-multi-mailer.php:263 view_mail_setting.php:28
+#: view_send_test_message_form.php:28 view_sender_setting.php:28
+msgid "Something Wrong."
+msgstr ""
+
+#: providers/class-multi-mailer.php:280 providers/class-multi-mailer.php:293
+msgid "Input Name Provider"
+msgstr ""
+
+#: providers/class-phpmailer-sender.php:48
+msgid "Host:"
+msgstr ""
+
+#: providers/class-phpmailer-sender.php:56
+msgid "Port:"
+msgstr ""
+
+#: providers/class-phpmailer-sender.php:64
+msgid "SMTPAuth:"
+msgstr ""
+
+#: providers/class-phpmailer-sender.php:72
+msgid "Username:"
+msgstr ""
+
+#: providers/class-phpmailer-sender.php:80
+msgid "Password:"
+msgstr ""
+
+#: providers/class-phpmailer-sender.php:88
+msgid "SMTPSecure:"
+msgstr ""
+
+#: view-providers-table.php:28
+msgid "Name Provider"
+msgstr ""
+
+#: view-providers-table.php:43
+msgid "Last Update"
+msgstr ""
+
+#: view-providers-table.php:48 view-providers-table.php:64
+#: view-providers-table.php:75
+msgid "Edit"
+msgstr ""
+
+#: view-providers-table.php:51 view-providers-table.php:67
+#: view-providers-table.php:78
+msgid "Delete"
+msgstr ""
+
+#: view_mail_setting.php:26
+msgid "Save Mail Setting."
+msgstr ""
+
+#: view_mail_setting.php:33
+msgid "Mail Setting"
+msgstr ""
+
+#: view_mail_setting.php:41
+msgid "From Email:"
+msgstr ""
+
+#: view_mail_setting.php:47
+msgid "Default email"
+msgstr ""
+
+#: view_mail_setting.php:49
+msgid "Please read this first: "
+msgstr ""
+
+#: view_mail_setting.php:51
+msgid "Add another user in gmail"
+msgstr ""
+
+#: view_mail_setting.php:58
+msgid "From Name:"
+msgstr ""
+
+#: view_mail_setting.php:64
+msgid "Default name"
+msgstr ""
+
+#: view_mail_setting.php:69
+msgid "To:"
+msgstr ""
+
+#: view_mail_setting.php:75
+msgid "Default user"
+msgstr ""
+
+#: view_mail_setting.php:78
+msgid "user@mail.com, user1@mail.com"
+msgstr ""
+
+#: view_mail_setting.php:84
+msgid "Subject:"
+msgstr ""
+
+#: view_mail_setting.php:90
+msgid "Default subject"
+msgstr ""
+
+#: view_mail_setting.php:95
+msgid "Message:"
+msgstr ""
+
+#: view_mail_setting.php:115
+msgid "[message]-is required shortcode for default text message"
+msgstr ""
+
+#: view_send_test_message_form.php:17
+msgid "Provider is not defined."
+msgstr ""
+
+#: view_send_test_message_form.php:20
+msgid "Invalid email."
+msgstr ""
+
+#: view_send_test_message_form.php:26
+msgid "Success send test message."
+msgstr ""
+
+#: view_send_test_message_form.php:36
+msgid "Send test message"
+msgstr ""
+
+#: view_send_test_message_form.php:42
+msgid "Send message to"
+msgstr ""
+
+#: view_send_test_message_form.php:50
+msgid "Subject for test message"
+msgstr ""
+
+#: view_send_test_message_form.php:54
+msgid "It`s test subject"
+msgstr ""
+
+#: view_send_test_message_form.php:59
+msgid "Text for test message"
+msgstr ""
+
+#: view_send_test_message_form.php:63
+msgid "It`s test message"
+msgstr ""
+
+#: view_send_test_message_form.php:67
+msgid "Send message"
+msgstr ""
+
+#: view_sender_setting.php:26
+msgid "Save SMTP Setting."
+msgstr ""
+
+#: view_sender_setting.php:34
+msgid "Add Provider"
+msgstr ""
+
+#: view_sender_setting.php:45
+msgid "Select what do you want to use:"
+msgstr ""
